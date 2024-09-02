@@ -6,7 +6,10 @@
 
 
 # Introduction
-This report presents a comprehensive analysis of road traffic accidents in Addis Ababa, based on data collected from Sub City Police Departments. The dataset encompasses a wide range of factors, including driver demographics, vehicle types, road conditions, and accident causes. The objective of this analysis is to uncover key patterns and trends that can inform strategies to enhance road safety and reduce the incidence of accidents.
+This report presents a comprehensive analysis of road traffic accidents in Addis Ababa. I analyzed a dataset downloaded from `Kaggle` to reveal critical insights that could contribute to improving road safety initiatives. The dataset encompasses a wide range of factors, including driver demographics, vehicle types, road conditions, and accident causes. 
+
+# Objective
+The objective of this analysis is to uncover key patterns and trends that can inform strategies to enhance road safety and reduce the incidence of accidents.
 
 # Dataset Overview
 - Total Records: 12,316
